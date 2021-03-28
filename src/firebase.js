@@ -3,12 +3,12 @@ import "firebase/auth"
 import "firebase/firestore";
 
 const firebaseApp = firebase.initializeApp({
-  apiKey: "AIzaSyC21qTaQneaMAl_6R1GVGbZQQDUR-QPbWs",
-  authDomain: "whatsapp-clone-8a13b.firebaseapp.com",
-  projectId: "whatsapp-clone-8a13b",
-  storageBucket: "whatsapp-clone-8a13b.appspot.com",
-  messagingSenderId: "227944634666",
-  appId: "1:227944634666:web:2c701805feef1599bd6653"
+  apiKey: "AIzaSyBic6pU3lzwYSgFz0Xrf-KDRgihILYUlKc",
+  authDomain: "whatsappclonesr.firebaseapp.com",
+  projectId: "whatsappclonesr",
+  storageBucket: "whatsappclonesr.appspot.com",
+  messagingSenderId: "116734486569",
+  appId: "1:116734486569:web:05224dfa31378785189438"
 });
 // passing the config object storing in firebaseApp object 
 const db = firebaseApp.firestore();
